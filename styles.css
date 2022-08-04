@@ -43,7 +43,7 @@ body {
 }
 
 .code-img {
-  background: url(/images/image-qr-code.png);
+  /* background: url(./images/image-qr-code.png); */
   width: 265px;
   height: 265px;
   background-size: cover;
